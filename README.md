@@ -49,3 +49,12 @@ A full-stack Task Manager application built with Angular for the frontend, Sprin
 - IntelliJ IDEA / Webstrom
 - Postman
 - Docker
+
+## 🐳 Docker Setup
+
+### 📦 Backend (Spring Boot)
+
+You can pull the Dockerized backend directly from Docker Hub:
+
+```bash
+docker pull amodhx/treinetictaskmanager:v1.0
