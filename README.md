@@ -12,14 +12,18 @@ A full-stack Task Manager application built with Angular for the frontend, Sprin
 - **Containerization**: Docker & Docker Compose
 
 ---
+## 🔗 GitHub Repositories
+
+- **Frontend**: [https://github.com/Amodhx/TreineticTaskManager-frontend](#)
+- **Backend**: [https://github.com/Amodhx/TreineticTaskManager-backend](#)
+
+---
 
 ## 📸 Screenshots
 
 | Login Page | Main Task Page | Settings Page |
 |------------|----------------|----------------|
 | ![Login Screenshot](./screenshots/login.png) | ![Main Form Screenshot](./screenshots/main-form.png) | ![Settings Screenshot](./screenshots/settings.png) |
-
-> 📝 Add your screenshots in the `/screenshots` folder and replace the above paths.
 
 ---
 
