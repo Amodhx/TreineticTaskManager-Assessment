@@ -14,8 +14,8 @@ A full-stack Task Manager application built with Angular for the frontend, Sprin
 ---
 ## 🔗 GitHub Repositories
 
-- **Frontend**: [https://github.com/Amodhx/TreineticTaskManager-frontend](#)
-- **Backend**: [https://github.com/Amodhx/TreineticTaskManager-backend](#)
+- **Frontend**: [https://github.com/Amodhx/TreineticTaskManager-frontend]
+- **Backend**: [https://github.com/Amodhx/TreineticTaskManager-backend]
 
 ---
 
